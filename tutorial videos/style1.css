@@ -1,0 +1,14 @@
+body {
+  background-image: url(../images/bg1.png);
+  background-size: cover;
+  font-family: "Architects Daughter", cursive;
+  margin-left: 35%;
+}
+
+h1 {
+  margin-left: 7%;
+}
+#hebrew1{
+  margin-left: 12%;
+}
+
